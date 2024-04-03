@@ -1,11 +1,11 @@
 # tic-tac-toe
 
-## [Your Name]
+## [samiya anam]
 ![Header](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ## Hi there 👋
 
-I'm a <b>[your department/year]</b> student at Lords Institute of Engineering & Technology. Welcome to my GitHub profile!
+I'm a <b>[INF/2024]</b> student at Lords Institute of Engineering & Technology. Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on [project or internship].
 - 🌱 I’m currently learning [specific technology or skill].
